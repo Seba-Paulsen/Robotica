@@ -1,4 +1,4 @@
-![banner](bin/banner.png)
+![banner](bin/logo_meca.png)
 Este repositorio contiene los talleres prácticos y el material complementario del curso ME4707 Robótica.
 
 ## Google Colab
