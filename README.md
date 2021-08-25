@@ -11,9 +11,9 @@ Dentro de este repositorio podrá encontrar los notebooks (\*.ipynb) de los dist
 ## Clonar GitHub
 En caso de requerir importar archivos y/o elementos de este repositorio a un entorno de Google Colab, puede clonarlo directamente mediante:
 
-`! git clone https://github.com/cherrerab/roboticafcfm.git`
+`! git clone https://github.com/RaimundoLorca/roboticafcfm2021-2.git`
 
-Si el repositorio se ha clonado correctamente, notará que en la carpeta de archivos `/content` se habrá creado el directorio `roboticafcfm`. Para utilizar este directorio dentro de la sesión, utilice el siguiente comando:
+Si el repositorio se ha clonado correctamente, notará que en la carpeta de archivos `/content` se habrá creado el directorio `roboticafcfm2021-2`. Para utilizar este directorio dentro de la sesión, utilice el siguiente comando:
 
 `%cd /content/roboticafcfm`
 
