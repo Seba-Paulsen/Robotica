@@ -27,6 +27,6 @@ La segmentación, si bien bajo muchos aspectos consiste en una operación bastan
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vlFEX_JJ2mVFpG-V9VBaoLBMF5MXhjX_#scrollTo=jhGvuTmyoRV0)
 
-[![Open In Youtube](https://raw.githubusercontent.com/RaimundoLorca/roboticafcfm2021-2/main/bin/Portada_aux1.png)](https://youtu.be/PVLbmkF0GRs)
+[![Open In Youtube](https://raw.githubusercontent.com/RaimundoLorca/roboticafcfm2021-2/main/bin/Portada_aux1.3.png)](https://youtu.be/PVLbmkF0GRs)
 
 
